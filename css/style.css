@@ -1,0 +1,15 @@
+img{
+    max-width: 100%;
+}
+.heading{
+    position: absolute;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 999;
+}
+.bool-image{
+    width: 70%;
+    margin: 0 auto;
+    position: relative;
+}
